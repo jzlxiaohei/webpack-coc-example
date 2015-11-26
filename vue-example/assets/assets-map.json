@@ -1,0 +1,20 @@
+{
+  "vue-coc/lib": {
+    "js": "/dist/vue-coc/lib.js?v=0b3972b311bfd2e63b73da66bf479d762e69f555"
+  },
+  "vue-coc/common": {
+    "js": "/dist/vue-coc/common.js?v=504883c6e054855632d2"
+  },
+  "vue-coc/index/index.entry": {
+    "js": "/dist/vue-coc/index/index.entry.js?v=a2923408e7651813c837"
+  },
+  "vue-coc/detail/detail.entry": {
+    "js": "/dist/vue-coc/detail/detail.entry.js?v=5db19230e7a8b7dc8540"
+  },
+  "vue-coc/vue-loader/loader.entry": {
+    "js": "/dist/vue-coc/vue-loader/loader.entry.js?v=85682ed6ec1aadd93650"
+  },
+  "vue-coc/for3/index.entry": {
+    "js": "/dist/vue-coc/for3/index.entry.js?v=79a11c0203b2f687b787"
+  }
+}

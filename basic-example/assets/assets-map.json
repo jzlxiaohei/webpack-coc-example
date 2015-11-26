@@ -1,0 +1,19 @@
+{
+  "webpack-coc/lib": {
+    "js": "/dist/webpack-coc/lib.js?v=ac46dc0f05a4cc181b911ad1b8058f71e6fbc87d"
+  },
+  "webpack-coc/common": {
+    "js": "/dist/webpack-coc/common.js?v=06598d42aaaed794fc9f",
+    "css": "/dist/webpack-coc/common.css?v=06598d42aaaed794fc9f"
+  },
+  "webpack-coc/index/index.entry": {
+    "js": "/dist/webpack-coc/index/index.entry.js?v=6a573fbcbb9245b32f9b",
+    "css": "/dist/webpack-coc/index/index.entry.css?v=6a573fbcbb9245b32f9b"
+  },
+  "webpack-coc/contact/contact.entry": {
+    "js": "/dist/webpack-coc/contact/contact.entry.js?v=b2e27e29b6fd11004a49"
+  },
+  "webpack-coc/other/other.entry": {
+    "js": "/dist/webpack-coc/other/other.entry.js?v=95edb51bcbc304ccd1ad"
+  }
+}

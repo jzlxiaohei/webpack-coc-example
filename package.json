@@ -1,0 +1,29 @@
+{
+  "name": "webpack-coc-example",
+  "version": "1.0.0",
+  "description": "some examples for webpack-coc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^5.8.34",
+    "babel-loader": "^5.4.0",
+    "babel-runtime": "^5.8.34",
+    "css-loader": "^0.21.0",
+    "del": "^2.1.0",
+    "express": "^4.13.3",
+    "jquery": "^2.1.4",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "style-loader": "^0.13.0",
+    "vue": "^1.0.8",
+    "vue-hot-reload-api": "^1.2.1",
+    "vue-html-loader": "^1.0.0",
+    "vue-loader": "^6.1.0",
+    "webpack": "^1.12.8",
+    "webpack-coc": "^0.0.5"
+  }
+}

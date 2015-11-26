@@ -1,0 +1,2 @@
+webpackJsonp([3],[function(e,a,t){"use strict";var c=t(1)["default"],o=t(2),s=c(o);new s["default"]({el:"#mount-dom",data:{message:"webpack-coc for Vue.js!(detail)"}})}]);
+//# sourceMappingURL=index.entry.js.map?v=79a11c0203b2f687b787
