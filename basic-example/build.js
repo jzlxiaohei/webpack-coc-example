@@ -14,7 +14,9 @@ var configMgr = new  WebpackCoc({
     dev_port:'9527'
 })
 
-console.log(configMgr.buildProduction());
+//console.log(configMgr.buildProduction());
+configMgr.buildProduction()
 configMgr.runProduction();
+
 //configMgr.buildDevelopment()
 //configMgr.runDevelopment()

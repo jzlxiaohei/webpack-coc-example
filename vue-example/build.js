@@ -26,6 +26,9 @@ var configMgr = new  WebpackCoc({
 })
 
 
+configMgr.defaultConfig.development.module.loaders.push(
+    { test: /\.vue$/, loader: 'vue' }
+)
 configMgr.defaultConfig.production.module.loaders.push(
     { test: /\.vue$/, loader: 'vue' }
 )
