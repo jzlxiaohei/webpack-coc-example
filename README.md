@@ -1,6 +1,6 @@
 # webpack-coc-example
 
-使用`webpack-coc`的两个小例子.
+使用[webpack-coc](https://github.com/jzlxiaohei/webpack-coc)的两个小例子.
 
 #安装
 
