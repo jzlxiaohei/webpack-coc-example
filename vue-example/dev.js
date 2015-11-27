@@ -26,17 +26,17 @@ var configMgr = new  WebpackCoc({
 })
 
 
-//configMgr.defaultConfig.development.module.loaders.push(
-//    { test: /\.vue$/, loader: 'vue' }
-//)
+configMgr.defaultConfig.development.module.loaders.push(
+    { test: /\.vue$/, loader: 'vue' }
+)
 configMgr.defaultConfig.production.module.loaders.push(
     { test: /\.vue$/, loader: 'vue' }
 )
 
 
-console.log(configMgr.buildProduction())
-configMgr.runProduction();
+//console.log(configMgr.buildProduction())
+//configMgr.runProduction();
 
-//configMgr.buildDevelopment();
-//configMgr.runDevelopment();
+configMgr.buildDevelopment();
+configMgr.runDevelopment();
 
