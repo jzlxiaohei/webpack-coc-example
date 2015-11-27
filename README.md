@@ -17,7 +17,7 @@ clone项目,然后
 
     node static_server.js
     
-    打开 [localhost:3332/index.html](localhost:3332/index.html)看效果
+打开 [localhost:3332/index.html](localhost:3332/index.html)看效果
 
 #vue例子
 
@@ -28,4 +28,4 @@ clone项目,然后
 
     node static_server.js
     
-    打开 [localhost:3333/index.html](localhost:3333/vue-loader.html)看效果
+打开 [localhost:3333/index.html](localhost:3333/vue-loader.html)看效果
